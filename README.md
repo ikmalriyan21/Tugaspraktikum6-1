@@ -57,14 +57,14 @@ Berikut disini adalah gambaran input outputnya.
  
 
 
-![input]("https://github.com/mastio1836/Tugaspraktikum6/blob/master/Gambar/pict1.png")
+![input](https://github.com/mastio1836/Tugaspraktikum6/blob/master/Gambar/pict1.png)
 
 
 
 
 
 
-![input]("https://github.com/mastio1836/Tugaspraktikum6/blob/master/Gambar/pict%202.png")
+![input](https://github.com/mastio1836/Tugaspraktikum6/blob/master/Gambar/pict%202.png)
 
 
 
@@ -73,7 +73,7 @@ Berikut disini adalah gambaran input outputnya.
 
 
 
-![output]("https://github.com/mastio1836/Tugaspraktikum6/blob/master/Gambar/RUN%20hasil.png")
+![output](https://github.com/mastio1836/Tugaspraktikum6/blob/master/Gambar/RUN%20hasil.png)
 
 
 
@@ -83,7 +83,7 @@ Berikut disini adalah gambaran input outputnya.
 
 
 
-![flowchart]("https://github.com/mastio1836/Tugaspraktikum6/blob/master/Gambar/tugas6flowchart.PNG")
+![flowchart](https://github.com/mastio1836/Tugaspraktikum6/blob/master/Gambar/tugas6flowchart.PNG)
 
 
 
